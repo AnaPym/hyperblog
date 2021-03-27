@@ -1,4 +1,4 @@
 # Hyperblog
 Un blog increíble para el curso de Git y Github de Platzi
 
-Hecho por Ana Perez. :tw-2728:
+Hecho por Ana Perez. 
