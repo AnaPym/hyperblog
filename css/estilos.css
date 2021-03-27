@@ -5,11 +5,11 @@ body {
     font-size: 25px;
     margin: 0;
     padding: 0;
-    background: rgb(28, 31, 12);
+    background: rgb(12, 31, 21);
 }
 #cabecera
 {
-    background: #dcd4c3;
+    background: rgb(102, 161, 228) ;
     color: white;
     margin: 0;
     font-weight: bold;
@@ -52,7 +52,7 @@ body {
 
 #footer
 {
-    background: rgb(238, 229, 104);
+    background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
